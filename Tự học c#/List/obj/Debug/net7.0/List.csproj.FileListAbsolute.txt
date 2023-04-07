@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Tự học c#\List\bin\Debug\net7.0\List.exe
+E:\ALL GIT C#\Tự học c#\List\bin\Debug\net7.0\List.deps.json
+E:\ALL GIT C#\Tự học c#\List\bin\Debug\net7.0\List.runtimeconfig.json
+E:\ALL GIT C#\Tự học c#\List\bin\Debug\net7.0\List.dll
+E:\ALL GIT C#\Tự học c#\List\bin\Debug\net7.0\List.pdb
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.dll
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\refint\List.dll
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.pdb
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+E:\ALL GIT C#\Tự học c#\List\obj\Debug\net7.0\ref\List.dll

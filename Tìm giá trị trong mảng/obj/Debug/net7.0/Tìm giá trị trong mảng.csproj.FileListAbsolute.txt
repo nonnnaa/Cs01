@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Tìm giá trị trong mảng\bin\Debug\net7.0\Tìm giá trị trong mảng.exe
+E:\ALL GIT C#\Tìm giá trị trong mảng\bin\Debug\net7.0\Tìm giá trị trong mảng.deps.json
+E:\ALL GIT C#\Tìm giá trị trong mảng\bin\Debug\net7.0\Tìm giá trị trong mảng.runtimeconfig.json
+E:\ALL GIT C#\Tìm giá trị trong mảng\bin\Debug\net7.0\Tìm giá trị trong mảng.dll
+E:\ALL GIT C#\Tìm giá trị trong mảng\bin\Debug\net7.0\Tìm giá trị trong mảng.pdb
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.AssemblyInfo.cs
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.dll
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\refint\Tìm giá trị trong mảng.dll
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.pdb
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\Tìm giá trị trong mảng.genruntimeconfig.cache
+E:\ALL GIT C#\Tìm giá trị trong mảng\obj\Debug\net7.0\ref\Tìm giá trị trong mảng.dll
